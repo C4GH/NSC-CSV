@@ -1,0 +1,216 @@
+Consulta: abundante - mucho - escaso
+Resultado: Distancias: 0.37119840605983034, 0.4606388871941908, 0.47702891681302545
+
+Consulta: aburrido - tedioso - divertido
+Resultado: Distancias: 0.3866425904832141, 0.3740193636251242, 0.23781587592962558
+
+Consulta: acabar - terminar - iniciar
+Resultado: Distancias: 0.8002838360444606, 0.6054124537313669, 0.6605357179700833
+
+Consulta: aceptar - admitir - rechazar
+Resultado: Distancias: 0.8175914477494548, 0.7208132498585701, 0.6689513697460999
+
+Consulta: acortar - abreviar - alargar
+Resultado: Distancias: 0.481271566186026, 0.675937548648789, 0.5647392306604015
+
+Consulta: actual - contemporáneo - anticuado
+Resultado: Distancias: 0.27765478696887286, -0.04701620419669447, -0.03647635637655467
+
+Consulta: advertir - notar - ignorar
+Resultado: Distancias: 0.6739397960384277, 0.5701292193289119, 0.4551508055125517
+
+Consulta: alterado - nervioso - tranquilo
+Resultado: Distancias: 0.23463203189590687, 0.30646505623303094, 0.1983813822236933
+
+Consulta: altura - elevación - depresión
+Resultado: Distancias: 0.5331004044669787, 0.3545509379078388, 0.3542316396702771
+
+Consulta: amplificar - agrandar - achicar
+Resultado: Distancias: 0.37533280392981966, 0.0583104324674479, 0.27537796972907186
+
+Consulta: angustia - malestar - alegría
+Resultado: Distancias: 0.5291428584868745, 0.609556725025988, 0.3852276361032264
+
+Consulta: apto - idóneo - inepto
+Resultado: Distancias: 0.478208246396923, 0.41487311866704557, 0.37250174370778366
+
+Consulta: armonía - calma - caos
+Resultado: Distancias: 0.343379850303024, 0.22686976509058582, 0.2185090317656079
+
+Consulta: barato - económico - caro
+Resultado: Distancias: 0.1333391558527114, 0.30706571526303333, -0.014631965603825207
+
+Consulta: batalla - combate - paz
+Resultado: Distancias: 0.6961786574054882, 0.365027871838357, 0.23509466794195388
+
+Consulta: bonito - hermoso - feo
+Resultado: Distancias: 0.6910208057185179, 0.40734393840093563, 0.3472821458324262
+
+Consulta: cálido - caliente - frío
+Resultado: Distancias: 0.42857344659293484, 0.6885328015586033, 0.6090917392533652
+
+Consulta: calmar - atenuar - enardecer
+Resultado: Distancias: 0.6363389739240436, 0.10244621425614404, 0.11876641679051463
+
+Consulta: centro - medio - borde
+Resultado: Distancias: 0.4235698960710721, 0.26850823803536983, 0.41278185712783727
+
+Consulta: cerrar - obstruir - abrir
+Resultado: Distancias: 0.41564564951671273, 0.7604915730842122, 0.2635570125502385
+
+Consulta: claro - luminoso - oscuro
+Resultado: Distancias: 0.3752940650321444, 0.6187449263990012, 0.4841743614009133
+
+Consulta: cómodo - confortable - incómodo
+Resultado: Distancias: 0.4481089048396539, 0.5939298108493828, 0.3376423689647703
+
+Consulta: completo - entero - incompleto
+Resultado: Distancias: 0.4853593471068481, 0.27592311897589983, 0.22596283111349597
+
+Consulta: comprar - adquirir - vender
+Resultado: Distancias: 0.6713881367677071, 0.8457942732663684, 0.5637176595132121
+
+Consulta: continuar - seguir - detener
+Resultado: Distancias: 0.8211941662168988, 0.5069838566710798, 0.4431985018908908
+
+Consulta: crear - inventar - destruir
+Resultado: Distancias: 0.45932210769494874, 0.5924800023135289, 0.45861703085848193
+
+Consulta: desierto - despoblado - concurrido
+Resultado: Distancias: 0.24895077827561768, 0.01737494274608926, 0.22001501860579417
+
+Consulta: decir - pronunciar - callar
+Resultado: Distancias: 0.5104790316990848, 0.34211442330518044, 0.3626255290808839
+
+Consulta: demente - loco - cuerdo
+Resultado: Distancias: 0.2594393901529192, 0.16146502517961386, 0.5113988005722976
+
+Consulta: ebrio - borracho - sobrio
+Resultado: Distancias: 0.49157056006516886, 0.0879239868448968, 0.19702352523757805
+
+Consulta: economizar - ahorrar - derrochar
+Resultado: Distancias: 0.5982084576461734, 0.34421213891720676, 0.2625612267313618
+
+Consulta: efecto - consecuencia - causa
+Resultado: Distancias: 0.6373974977498454, 0.5996929772133708, 0.8180584036839512
+
+Consulta: entrada - acceso - salida
+Resultado: Distancias: 0.680253987428313, 0.7273677235050946, 0.5732914247092135
+
+Consulta: extraño - raro - común
+Resultado: Distancias: 0.7839449215369703, 0.37221433285603184, 0.3989184601084794
+
+Consulta: fácil - sencillo - difícil
+Resultado: Distancias: 0.3861255609369617, 0.8646438226317517, 0.2898602473820814
+
+Consulta: fallecer - morir - nacer
+Resultado: Distancias: 0.5347447898713715, 0.35993933894819274, 0.6276860300434277
+
+Consulta: famoso - célebre - desconocido
+Resultado: Distancias: 0.795835557873823, 0.4182506357402275, 0.3486075226127716
+
+Consulta: flaco - delgado - gordo
+Resultado: Distancias: 0.4190956058679177, 0.37282152235309024, 0.41986883571580697
+
+Consulta: grande - enorme - pequeño
+Resultado: Distancias: 0.6185436912052082, 0.5580109370771781, 0.5694176063098434
+
+Consulta: humildad - modestia - soberbia
+Resultado: Distancias: 0.7218486031403067, 0.5639487154975734, 0.6566103076448321
+
+Consulta: idéntico - igual - diferente
+Resultado: Distancias: 0.4476541138855599, 0.579857179311504, 0.6988375000418937
+
+Consulta: ignorante - necio - inteligente
+Resultado: Distancias: 0.6316689826911033, 0.5440954231526096, 0.3359515328447342
+
+Consulta: iluminar - alumbrar - oscurecer
+Resultado: Distancias: 0.6743508368912389, 0.48438561327819946, 0.47730814221148665
+
+Consulta: insolencia - descaro - cortesía
+Resultado: Distancias: 0.5180027151283055, 0.45632282942528696, 0.24144495698861673
+
+Consulta: insulto - agravio - halago
+Resultado: Distancias: 0.6342840652352224, 0.22747202967777494, 0.24249844528336528
+
+Consulta: inteligencia - sabiduría - estupidez
+Resultado: Distancias: 0.41785800505369375, 0.13058539961139054, 0.35703645695635844
+
+Consulta: justicia - equidad - injusticia
+Resultado: Distancias: 0.3841352407324626, 0.27104039235756, 0.3132363963890775
+
+Consulta: llano - liso - rugoso
+Resultado: Distancias: 0.3473933864950133, 0.07032469067278031, 0.5680806537834666
+
+Consulta: llegada - arribo - partida
+Resultado: Distancias: 0.47674037011417536, 0.3511606990583368, 0.18510100190311884
+
+Consulta: lucha - pelea - concordia
+Resultado: Distancias: 0.5731539862926963, 0.14614100696040164, 0.1170482887530435
+
+Consulta: magnate - rico - pobre
+Resultado: Distancias: 0.28750951159453997, 0.30182382651501305, 0.44475699181535433
+
+Consulta: magnífico - espléndido - mísero
+Resultado: Distancias: 0.6319895435524483, 0.36235622261828215, 0.4795868332154788
+
+Consulta: matrimonio - boda - divorcio
+Resultado: Distancias: 0.5351305116248124, 0.6603711556703762, 0.3586008683905674
+
+Consulta: mentira - embuste - verdad
+Resultado: Distancias: 0.07087357444877466, 0.6158006120451287, -0.06828780430472788
+
+Consulta: miedo - pánico - valentía
+Resultado: Distancias: 0.4905552314564152, 0.2834968825622939, 0.11392643801311089
+
+Consulta: sinónimo - semejante - antónimo
+Resultado: Distancias: 0.17099696577106213, 0.2517452124849357, 0.008854130457474026
+
+Consulta: nunca - jamás - siempre
+Resultado: Distancias: 0.869702670816229, 0.6361330479509423, 0.5530832138303227
+
+Consulta: obediente - disciplinado - desobediente
+Resultado: Distancias: 0.30613946001411035, 0.22383530205753854, 0.36977660301935505
+
+Consulta: parar - detener - seguir
+Resultado: Distancias: 0.5263516340130924, 0.49742941365029386, 0.4431985018908908
+
+Consulta: partir - dividir - unir
+Resultado: Distancias: 0.24623896420860375, 0.2296927413362269, 0.5210706838221596
+
+Consulta: paz - armonía - guerra
+Resultado: Distancias: 0.3882096290645523, 0.5489794364009433, 0.1250101385188049
+
+Consulta: penumbra - sombra - claridad
+Resultado: Distancias: 0.46067522314792575, 0.38025511687668057, 0.5001813367325829
+
+Consulta: posible - factible - imposible
+Resultado: Distancias: 0.5374920438859772, 0.7761998984494527, 0.6146188500481746
+
+Consulta: previo - anterior - posterior
+Resultado: Distancias: 0.4735185124631791, 0.43924464968244514, 0.7151982403301371
+
+Consulta: querer - ansiar - despreciar
+Resultado: Distancias: 0.03131329475644955, 0.49804601338413257, 0.19432354962613543
+
+Consulta: reposo - quietud - inquietud
+Resultado: Distancias: 0.37983444677499245, 0.1459087027938176, 0.19355348634129127
+
+Consulta: saber - conocer - ignorar
+Resultado: Distancias: 0.6633373564966174, 0.40297985875764963, 0.22611236016931296
+
+Consulta: sumar - agregar - restar
+Resultado: Distancias: 0.45174678225378934, 0.6841031618908371, 0.36685885996510414
+
+Consulta: tomar - coger - soltar
+Resultado: Distancias: 0.523509153293148, 0.19816943463798864, 0.5304943860986936
+
+Consulta: triunfo - victoria - derrota
+Resultado: Distancias: 0.75761187665444, 0.6621822344781938, 0.7037824095437004
+
+Consulta: variable - cambiante - invariable
+Resultado: Distancias: 0.26336437350828334, 0.14499246058367626, 0.2748795023574113
+
+Consulta: volver - regresar - partir
+Resultado: Distancias: 0.8209697800342529, 0.3329881926232424, 0.3052795476042066
+
