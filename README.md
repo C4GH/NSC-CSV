@@ -4,7 +4,7 @@ El programa calcula la similitud de los vectores de las palabras dadas después 
 ## main
 El programa principal pide al usuario ingresar palabras para buscar la similitud entre esta, su sinónimo y su antónimo. 
 
-## vectores_filtrado
+## vectors_filtrado
 Este archivo fue creado con el vocabulario específico con el que probamos el conjunto, ya que el archivo completo tardaba en procesarse en la máquina que se probó.
 
 ## similitud-csv
