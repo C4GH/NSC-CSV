@@ -9,3 +9,6 @@ Este archivo fue creado con el vocabulario específico con el que probamos el co
 
 ## similitud-csv
 Este programa es capaz de leer las palabras directamente de un CSV para que el usuario no tenga que ingresar las palabras una a una. 
+
+## consultas
+Este archivo guarda las consultas realizadas.
